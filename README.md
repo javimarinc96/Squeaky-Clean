@@ -1,3 +1,4 @@
+![squeaky-clean](https://user-images.githubusercontent.com/44240533/222984491-bd91f163-1bbf-417a-af95-0fe041fc3c0a.svg)
 # Squeaky Clean
 
 Welcome to Squeaky Clean on Exercism's Java Track.
